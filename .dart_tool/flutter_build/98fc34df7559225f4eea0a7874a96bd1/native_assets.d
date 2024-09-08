@@ -1,0 +1,1 @@
+ C:\\Users\\DELL\\Desktop\\FLUTTER\\mediappoint\\.dart_tool\\flutter_build\\98fc34df7559225f4eea0a7874a96bd1\\native_assets.yaml: 
